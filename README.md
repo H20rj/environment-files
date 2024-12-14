@@ -2,8 +2,17 @@
 ## Prequisites
 
 1. Nerd Font for terminal
+```
+brew install --cask font-meslo-lg-nerd-font
+```
 2. Ripgrep
+```
+brew install ripgrep
+```
 3. Node
+```
+brew install node
+```
 4. Neovim 0.10
 
 ## Install
