@@ -14,6 +14,9 @@ brew install ripgrep
 brew install node
 ```
 4. Neovim 0.10
+```
+brew install neovim
+```
 
 ## Install
 
